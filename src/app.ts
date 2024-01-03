@@ -15,7 +15,7 @@ const uri: string = `mongodb+srv://thinithidilshara:W1M9E3NNt6HxP7Rs@cluster0.yw
 const options: any = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    useFindAndModify: false, 
+    // useFindAndModify: false, 
   }
 
 mongoose
